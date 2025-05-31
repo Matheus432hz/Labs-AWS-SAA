@@ -10,7 +10,6 @@ Todos os documentos de instruções detalhadas, passo a passo da execução, e a
 
 ➡️ **[Documentação Completa dos Laboratórios AWS no Google Drive](https://drive.google.com/drive/folders/13FqMqbLXGJJ9gTknMQPs4rXCTnl_kkOc?usp=sharing)**
 
-*(Certifique-se de que o link acima e os arquivos dentro dele estejam configurados para acesso público: "Qualquer pessoa com o link pode ver".)*
 
 ---
 
